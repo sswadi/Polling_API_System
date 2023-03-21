@@ -1,0 +1,25 @@
+{
+  "name": "polling-api-system",
+  "version": "1.0.0",
+  "description": "making an api for polling system",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sswadi/Polling_API_System.git"
+  },
+  "author": "Swati S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sswadi/Polling_API_System/issues"
+  },
+  "homepage": "https://github.com/sswadi/Polling_API_System#readme",
+  "dependencies": {
+    "env": "^0.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  }
+}
